@@ -58,7 +58,7 @@ Index
 
   > **偏差**度量了学习算法的期望预测与真实结果的偏离程度，即刻画了学习算法本身的拟合能力；
 - **方差**（Variance）
-  <div align="center"><a href="http://www.codecogs.com/eqnedit.php?latex=\large&space;var(\boldsymbol{x})=\mathbb{E}_D\left&space;[&space;\left&space;(&space;f(\boldsymbol{x};D)-\hat{f}(\boldsymbol{x})&space;\right&space;)^2&space;\right&space;]"><img src="../_assets/公式_20180817211903.png" height="" /></a></div>
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\mathbb{E}_D\left&space;[&space;\left&space;(&space;\hat{f}(\boldsymbol{x})-f(\boldsymbol{x};D)&space;\right&space;)^2&space;\right&space;]" title="https://latex.codecogs.com/svg.image?\inline \mathbb{E}_D\left&space;[&space;\left&space;(&space;\hat{f}(\boldsymbol{x})-f(\boldsymbol{x};D)&space;\right&space;)^2&space;\right&space;]" />
 
   > **方差**度量了同样大小的**训练集的变动**所导致的学习性能的变化，即刻画了数据扰动所造成的影响（模型的稳定性）；
 <!-- - **噪声**
