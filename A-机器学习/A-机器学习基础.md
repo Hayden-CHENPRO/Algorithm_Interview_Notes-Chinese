@@ -62,7 +62,7 @@ Index
 
   > **方差**度量了同样大小的**训练集的变动**所导致的学习性能的变化，即刻画了数据扰动所造成的影响（模型的稳定性）；
 <!-- - **噪声**
-  <div align="center"><a href="http://www.codecogs.com/eqnedit.php?latex=\large&space;var(\boldsymbol{x})=\mathbb{E}_D\left&space;[&space;\left&space;(&space;f(\boldsymbol{x};D)-\hat{f}(\boldsymbol{x})&space;\right&space;)^2&space;\right&space;]"><img src="../_assets/公式_20180817212111.png" height="" /></a></div> -->
+  <div align="center"><a href="http://www.codecogs.com/eqnedit.php?latex=\large&space;var(\boldsymbol{x})=\mathbb{E}_D\left&space;[&space;\left&space;(&space;\hat{f}(\boldsymbol{x})&space-f(\boldsymbol{x};D);\right&space;)^2&space;\right&space;]"><img src="../_assets/公式_20180817212111.png" height="" /></a></div> -->
 
 - **噪声**则表达了在当前任务上任何学习算法所能达到的期望泛化误差的下界，即刻画了学习问题本身的难度。
 
