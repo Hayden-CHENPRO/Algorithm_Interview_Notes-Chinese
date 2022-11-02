@@ -132,7 +132,7 @@ Index
 
 **Reference**
 - [机器学习---生成模型与判别模型](https://blog.csdn.net/u012101561/article/details/52814571) - CSDN博客 
-- 
+- [机器学习中的判别式模型和生成式模型](https://zhuanlan.zhihu.com/p/74586507) - 知乎专栏
 
 ## 先验概率与后验概率
 > [先验概率，后验概率，似然概率，条件概率，贝叶斯，最大似然](https://blog.csdn.net/suranxu007/article/details/50326873) - CSDN博客 
