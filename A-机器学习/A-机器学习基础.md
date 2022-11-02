@@ -149,3 +149,6 @@ Index
 
 **贝叶斯公式**
   <div align="center"><a href="http://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;\large&space;P(Y|X)=\frac{P(X|Y)*P(Y)}{P(X)}"><img src="../_assets/公式_20180817230314.png" height="" /></a></div>
+
+
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\ae&space;\ae&space;\ae&space;\ae&space;\ae&space;" title="https://latex.codecogs.com/svg.image?\inline \ae \ae \ae \ae \ae " />
