@@ -65,7 +65,7 @@ Index
 > geekcircle/machine-learning-interview-qa/[7.md](https://github.com/geekcircle/machine-learning-interview-qa/blob/master/questions/7.md)
 
 什么是熵？
-> 深度学习/理论知识/[信息熵、KL 散度（相对熵）与交叉熵**](../A-深度学习/《深度学习》整理#信息熵kl-散度相对熵与交叉熵)
+> [信息量、熵、相对熵（KL散度）、交叉熵](https://zhuanlan.zhihu.com/p/355681473) - 知乎
 
 **求投掷均匀正六面体骰子的熵**
 
