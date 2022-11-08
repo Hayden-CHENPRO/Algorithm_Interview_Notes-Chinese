@@ -164,6 +164,7 @@
   
 ## 逻辑斯蒂回归推导
 > [逻辑回归的本质及损失函数的推导、求解](https://zhuanlan.zhihu.com/p/103459570) - 知乎
+> 
 > [逻辑回归推导](https://www.cnblogs.com/daguankele/p/6549891.html) - 罐装可乐 - 博客园 
 - 推导的关键点 (3)
   1. 逻辑斯蒂回归的定义
